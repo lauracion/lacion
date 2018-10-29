@@ -348,13 +348,13 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-[languages.es]
-  languageCode = "es-ar"
-  title = "Hola, Mundo!"
-  [languages.es.params]
-    name = "Laura Acion"
-    role = "Investigadora Adjunta"
-  [[languages.es.menu.main]]
-    name = "Info"
-    url = "#about"
-    weight = 1
+# [languages.es]
+#  languageCode = "es-ar"
+#  title = "Hola, Mundo!"
+#  [languages.es.params]
+#    name = "Laura Acion"
+#    role = "Investigadora Adjunta"
+#  [[languages.es.menu.main]]
+#    name = "Info"
+#    url = "#about"
+#    weight = 1
