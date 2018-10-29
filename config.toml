@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://lacion.netlify.com/"
 
 # Title of your site
 title = "Hello, World!"
@@ -352,7 +352,7 @@ enableGitInfo = false
   languageCode = "es-ar"
   title = "Hola, Mundo!"
   [languages.es.params]
-    name = "Laura Ación"
+    name = "Laura Acion"
     role = "Investigadora Adjunta"
   [[languages.es.menu.main]]
     name = "Info"
