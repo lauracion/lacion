@@ -358,3 +358,6 @@ enableGitInfo = false
 #    name = "Info"
 #    url = "#about"
 #    weight = 1
+
+# Redirect default Netlify subdomain to primary domain
+http://lacion.netlify.com/* http://lacion.rbind.io/:splat 301!
