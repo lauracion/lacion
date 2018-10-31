@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://lacion.netlify.com/* https://lacion.rbind.io/:splat 301!
