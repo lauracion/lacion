@@ -42,7 +42,7 @@ weight = 5
 
 # Greetings, stranger.
 
-I am a Biostatistician transitioning to Data Science. I especialize in some areas of Health Sciences. I am passionate about changing the way applied stats is taught and practiced. 
+I am a Biostatistician transitioning to Data Science. I specialize in some areas of Health Sciences. I am passionate about changing the way applied stats is taught and practiced. 
 
 I have so much to learn and do that it seems I will be needing some extra lives to accomplish all. In the meantime, I also mother two adorable sons in [Buenos Aires](https://en.wikipedia.org/wiki/Buenos_Aires).
 
