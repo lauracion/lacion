@@ -1,5 +1,5 @@
 ---
-title: About me
+title: My way through academia (Part I)
 author: Laura Acion
 date: '2018-11-09'
 slug: about-me
