@@ -5,7 +5,6 @@ date: '2018-11-10'
 slug: about-me-and-current-projects
 categories: []
 tags: []
-draft: TRUE
 image:
   caption: ''
   focal_point: ''
