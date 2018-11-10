@@ -34,7 +34,7 @@ weight = 5
 
 
 [[education.courses]]
-  course = "Licientiate in Biology"
+  course = "Licentiate in Biology"
   institution = "Universidad de Buenos Aires"
   year = 2002
  
