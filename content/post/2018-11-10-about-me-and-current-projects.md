@@ -5,22 +5,21 @@ date: '2018-11-10'
 slug: about-me-and-current-projects
 categories: []
 tags: []
-draft: TRUE
 image:
   caption: ''
   focal_point: ''
 ---
 
-My latest news are that I am starting as an Adjunct Research Scientist at the [National Research Council in Argentina (CONICET)](https://www.conicet.gov.ar/?lan=en). I will work at the [Instituto de Calculo, FCEN, UBA (IC)](http://www.ic.fcen.uba.ar/en/) where I will lead a data science research group focusing on the extraction of knowledge from electronic medical records. My goal in this part to my career is to switch from paidwalled science to open science.
+My latest news is that I am starting as an Adjunct Research Scientist at the [National Research Council in Argentina (CONICET)](https://www.conicet.gov.ar/?lan=en). I will work at the [Instituto de Calculo, FCEN, UBA](http://www.ic.fcen.uba.ar/en/) where I will lead a data science research group focusing on the extraction of knowledge from electronic medical records. My goal in this part to my career is to switch from paid-walled science to open science.
 
-I am also a senior consultant for the Data Science Program at Fundación Sadosky. My job there is to promote and further the development of Data Science in Argentina, where I live. Part of my duties include designing and producing Data Science products for the public sector.
+I am also a senior consultant for the [Data Science Program at Fundacion Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/). My job there is to promote and further the development of Data Science in Argentina, where I live. My duties include designing and producing Data Science products for the public sector.
 
-Teaching is another passion of mine. Most of my teaching is for graduate courses in introductory applied statistics for a health science audience. I recently became an instructor for The Carpentries and will be organizing local courses in the months to come.
+Teaching is another passion of mine. Most of my teaching is for graduate courses in introductory applied statistics for a health science audience. I recently became an instructor for [The Carpentries](https://carpentries.org/) and I am looking forward to teaching my first Carpentries' course.
 
-Some time ago I became more active in the academic publication world where I am the Associate Editor of the Methods Section for Addiction Research of AJDAA. Other ways I collaborate in research are by being a member of the Data Safety Monitoring Board at NIMH and an ad-hoc reviewer for RRD&D at the VA.
+I am active in the academic publishing world, where I am the creator and Associate Editor of [AJDAA's Methods for Addiction Research Section](http://explore.tandfonline.com/cfp/med/american-journal-of-drug-and-alcohol-abuse-methods-in-addiction-research). Other ways I collaborate in research are by being a member of the Data Safety Monitoring Board at [NIMH](https://www.nimh.nih.gov/index.shtml) and an ad-hoc reviewer for [RRD&D at the VA](https://www.research.va.gov/services/rrd.cfm).
 
-My way to give back to the open source community who helped me endlessly throughout my career has been to become one of the founders and organiziers of R-Ladies Buenos Aires, the New Chapters Liaison for R-Ladies Global, and one of the founders of R en Baires, a Buenos Aires R user group. I am also one of creators and Chairs of LatinR <- Latin American Conference for the Use of R in Research + Development. 
+The open source community helped me endlessly throughout my career. My way to give back to it is by helping the R community grow in Latin America. I started by co-founding [R-Ladies Buenos Aires](https://www.meetup.com/rladies-buenos-aires/), then I became the new chapters' liaison for [R-Ladies Global](https://rladies.org/about-us/team/). I also co-created and chair [LatinR <- Latin American Conference for the Use of R in Research + Development](http://latin-r.com/en) and co-founded [R en Baires](https://renbaires.github.io/), a Buenos Aires R user group.  
 
-I try to be involved and help as much as possible in any project that adds transparency and openness to research. I am passionate about ways to improve data analysis teaching, too. My passions are potentiated when they can flourish in Latin America.
+I try to be involved and help as much as possible in any project that adds transparency and openness to research. I am passionate about ways to improve data analysis teaching, too. Some of the roles I enjoy most is to help and mentor others. My passions are potentiated when they can flourish in Latin America.
 
-If any of this clicks with your interests, I will be happy to hear and/or work with you. If in doubt if you should reach out or not, please reach out. Some of the roles I enjoy most is to help and mentor others.
+If any of this clicks with you, I will be happy to hear from and/or work with you. If in doubt, please reach out.
