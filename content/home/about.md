@@ -46,4 +46,4 @@ I am a Biostatistician transitioning to Data Science. I specialize in some areas
 
 I have so much to learn and to do that it seems I will be needing some extra lives to accomplish all. In the meantime, I also mother two adorable sons in [Buenos Aires](https://en.wikipedia.org/wiki/Buenos_Aires).
 
-A complete version of my sleep-inducing academic CV [here](/files/Acion_CV_November_2018_web_long.pdf). A shorter version [here](/files/Acion_CV_November_2018_web_short.pdf) (still rather long for non-academic standards). A more friendly post about me and what I am up to [here](/post/about-me-and-current-projects).
+A complete version of my academic CV [here](/files/Acion_CV_November_2018_web_long.pdf). A shorter version [here](/files/Acion_CV_November_2018_web_short.pdf) (still rather long for non-academic standards). A more friendly post about me and what I am up to [here](/post/about-me-and-current-projects).
