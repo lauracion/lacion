@@ -14,7 +14,7 @@ My latest news is that I am starting as an Adjunct Research Scientist at the [Na
 
 I am also a senior consultant for the [Data Science Program at Fundacion Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/). My job there is to promote and further the development of Data Science in Argentina, where I live. My duties include designing and producing Data Science products for the public sector.
 
-Teaching is another passion of mine. Most of my teaching is for graduate courses in introductory applied statistics for a health science audience. I recently became an instructor for [The Carpentries](https://carpentries.org/) and I am looking forward to teaching my first Carpentries' course.
+Teaching is another passion of mine. Most of my teaching is for graduate courses in introductory applied statistics for a health science audience. I recently became an instructor for [The Carpentries](https://carpentries.org/) and I am an instructor's trainer in the making. I am looking forward to teaching my first Carpentries' course.
 
 I am active in the academic publishing world, where I am the creator and Associate Editor of [AJDAA's Methods for Addiction Research Section](http://explore.tandfonline.com/cfp/med/american-journal-of-drug-and-alcohol-abuse-methods-in-addiction-research). Other ways I collaborate in research are by being a member of the Data Safety Monitoring Board at [NIMH](https://www.nimh.nih.gov/index.shtml) and an ad-hoc reviewer for [RRD&D at the VA](https://www.research.va.gov/services/rrd.cfm).
 
@@ -22,4 +22,4 @@ The open source community helped me endlessly throughout my career. My way to gi
 
 I try to be involved and help as much as possible in any project that adds transparency and openness to research. I am passionate about ways to improve data analysis teaching, too. One of the roles I enjoy most is to help and mentor others. My passions are potentiated when they can flourish in Latin America.
 
-If any of this clicks with you, I will be happy to hear from and/or work with you. If in doubt, please reach out.
+If you are interested in any of this, I will be happy to hear from and/or work with you. If in doubt, please reach out.
