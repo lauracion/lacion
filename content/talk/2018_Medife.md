@@ -37,8 +37,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://docs.google.com/presentation/d/1yr0ccuYK19-0xVbR2icRdI5xpJ7eHR8nciMyD6qKRak/edit?usp=sharing"
-url_slides = ""
+url_pdf = ""
+url_slides = "https://docs.google.com/presentation/d/1yr0ccuYK19-0xVbR2icRdI5xpJ7eHR8nciMyD6qKRak/edit?usp=sharing"
 url_video = "https://www.youtube.com/watch?v=of3h4mQKrCo"
 url_code = ""
 
