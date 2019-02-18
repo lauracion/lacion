@@ -294,6 +294,11 @@ enableGitInfo = false
   name = "Blog"
   url = "#posts"
   weight = 2
+  
+[[menu.main]]
+  name = "Talks"
+  url = "#talk"
+  weight = 3  
 
 #[[menu.main]]
 #  name = "Projects"
@@ -308,7 +313,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 3
+  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
