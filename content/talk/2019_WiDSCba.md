@@ -1,6 +1,6 @@
 +++
 title = "Camino y aprendizajes como cientifica de datos academica"
-date = 2019-03-12T00:00:00  # Schedule page publish date.
+date = 2019-02-17T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
