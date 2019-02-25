@@ -1,5 +1,5 @@
 +++
-title = "Camino y aprendizajes como cientifica de datos academica"
+title = "Journey as an academic data scientist"
 date = 2019-02-17T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -12,14 +12,14 @@ time_start = 2019-03-12
 authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "About two years ago, I chose to call myself _health data scientist_. By _health_ I mean health sciences such as, for example, medicine, psychology, genetics, and others related to human health. My journey as an academic researcher in topics related to health sciences began in 1999. In this talk I tell how was the path that brought me to health data science. I give details of how I was trained and what less formal learnings I needed to do my job. I also explain how I divide my time between my research activities, teaching, consulting, community outreach and, last but not least, family. In Spanish."
 
 # Name of event and optional event URL.
 event = "Women in Data Science Cordoba"
 event_url = ""
 
 # Location of event.
-location = "Buenos Aires, Argentina"
+location = "Cordoba, Argentina"
 
 # Is this a selected talk? (true/false)
 selected = false
