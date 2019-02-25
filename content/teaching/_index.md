@@ -14,7 +14,7 @@ image = ""
 caption = ""
 +++
 
-In this page you will find several teaching and teaching-related materials listed in descending order according to the date the class was taught. Most of the materials are in Spanish. 
+In this page you will find several teaching and teaching-related materials listed in descending order according to the class/workshop/demo date. Most of the materials are in Spanish. 
 
 Slides that include multiple questions are *student versions* (i.e., without answers). Feel free to contact me for *instructor versions*. 
 
