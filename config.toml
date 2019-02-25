@@ -67,7 +67,7 @@ enableGitInfo = false
   address = ""
   office_hours = ""
   phone = ""
-  skype = "lauracion"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -302,7 +302,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Teaching"
-  url = "/teaching/"
+  url = "#teaching"
   weight = 4
 
 #[[menu.main]]
