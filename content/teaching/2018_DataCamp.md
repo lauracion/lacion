@@ -3,44 +3,15 @@ title = "Inference by Eye: How to Read Plots of Confidence Intervals"
 date = 2018-01-15T00:00:00  # Schedule page publish date.
 draft = false
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-01-15
-# time_end = 2030-06-01T15:00:00
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Laura Acion"]
 
-# Abstract and optional shortened version.
-abstract = "Mini class in English. With this mini class I became an instructor at DataCamp. I present an introduction on how to make inference by eye. That is, if you have a plot featuring one or two confidence intervals, how can you approximate a p-value just by looking at the plot. "
+abstract = "Mini class in English. With this mini class I became an instructor at DataCamp."
 
-# Name of event and optional event URL.
-event = "Audition for DataCamp"
-event_url = ""
+elected = false
 
-# Location of event.
-location = ""
-
-# Is this a selected talk? (true/false)
-selected = false
-
-# Projects (optional).
-#   Associate this talk with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects = []
 
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
-
-# Links (optional).
-url_pdf = ""
-url_slides = "https://github.com/lauracion/lacion/blob/master/content/teaching/files/Acion_DataCamp_Audition.pptx"
-url_video = "https://github.com/lauracion/lacion/blob/master/content/teaching/files/Laura_Acion_Inference_by_Eye.mov"
-url_code = ""
 
 # Does the content use math formatting?
 math = false
@@ -55,3 +26,7 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
+
+Mini class in English. With this mini class I became an instructor at DataCamp. I present an introduction on how to make inference by eye. That is, if you have a plot featuring one or two confidence intervals, how can you approximate a p-value just by looking at the plot.
+
+[Slides](https://github.com/lauracion/lacion/blob/master/content/teaching/files/Acion_DataCamp_Audition.pptx). [Video](https://github.com/lauracion/lacion/blob/master/content/teaching/files/Laura_Acion_Inference_by_Eye.mov).
