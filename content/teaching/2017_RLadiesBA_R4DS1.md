@@ -1,7 +1,7 @@
 +++
 title = "R for Data Science Workshop - Part I"
 date = 2017-05-27T00:00:00  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
