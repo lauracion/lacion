@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "content/talk/files/2_RLadies_2018LatinR.pptx"
+url_slides = "https://github.com/lauracion/lacion/blob/master/content/talk/files/2_RLadies_2018LatinR.pptx"
 url_video = ""
 url_code = ""
 

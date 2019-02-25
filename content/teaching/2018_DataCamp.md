@@ -38,8 +38,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "content/teaching/files/Acion_DataCamp_Audition.pptx"
-url_video = "content/teaching/files/Laura_Acion_Inference_by_Eye.mov"
+url_slides = "https://github.com/lauracion/lacion/blob/master/content/teaching/files/Acion_DataCamp_Audition.pptx"
+url_video = "https://github.com/lauracion/lacion/blob/master/content/teaching/files/Laura_Acion_Inference_by_Eye.mov"
 url_code = ""
 
 # Does the content use math formatting?
