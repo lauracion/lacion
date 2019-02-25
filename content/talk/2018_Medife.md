@@ -12,7 +12,7 @@ time_start = 2018-04-27T00:00:00
 authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
-abstract = "This talk establishes a basic definition of what Data Science is. It also defines common terms usually used in Data Science (e.g., machine learniner, big data, artificial intelligence). A brief review of Health Data Science development in Argentina are presented. In Spanish."
+abstract = "Talk in Spanish. This talk establishes a basic definition of what Data Science is. It also defines common terms usually used in Data Science (e.g., machine learniner, big data, artificial intelligence). A brief review of Health Data Science development in Argentina are presented."
 
 # Name of event and optional event URL.
 event = "Ciclo Big Data y Salud: Tres Encuentros"
