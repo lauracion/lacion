@@ -16,7 +16,7 @@ abstract = "Talk in Spanish. About two years ago, I chose to call myself _health
 
 # Name of event and optional event URL.
 event = "Women in Data Science Cordoba"
-event_url = ""
+event_url = "http://metcba.org/widscordoba"
 
 # Location of event.
 location = "Cordoba, Argentina"
