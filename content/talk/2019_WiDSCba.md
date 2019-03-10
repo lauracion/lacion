@@ -1,11 +1,11 @@
 +++
 title = "Journey as an academic data scientist"
-date = 2019-02-17T00:00:00  # Schedule page publish date.
+date = 2019-03-10T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-12
+time_start = 2019-03-12T09:30:00
 # time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/1tZjZn1tbFRddZBGX_DkQLr0xmn23jOBpN0OuoNw2Ilg/edit?usp=sharing"
 url_video = ""
 url_code = ""
 
