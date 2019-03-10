@@ -1,6 +1,6 @@
 +++
 title = "Journey as an academic data scientist"
-date = 2019-03-10T00:00:00  # Schedule page publish date.
+date = 2019-03-11T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
