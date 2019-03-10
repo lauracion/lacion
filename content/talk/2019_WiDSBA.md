@@ -1,6 +1,6 @@
 +++
 title = "Journey as an academic data scientist"
-date = 2019-02-17T00:00:00  # Schedule page publish date.
+date = 2019-03-15T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/lauracion/lacion/blob/master/content/talk/files/Acion_WIDSBA_2019.pptx"
 url_video = ""
 url_code = ""
 
