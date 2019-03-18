@@ -12,7 +12,7 @@ time_start = 2019-03-12T09:30:00
 authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
-abstract = "Talk in Spanish. About two years ago, I chose to call myself _health data scientist_. By _health_ I mean health sciences such as, for example, medicine, psychology, genetics, and others related to human health. My journey as an academic researcher in topics related to health sciences began in 1999. In this talk I tell how was the path that brought me to health data science. I give details of how I was trained and what less formal learnings I needed to do my job. I also explain how I divide my time between my research activities, teaching, consulting, community outreach and, last but not least, family."
+abstract = "Keynote in Spanish. About two years ago, I chose to call myself _health data scientist_. By _health_ I mean health sciences such as, for example, medicine, psychology, genetics, and others related to human health. My journey as an academic researcher in topics related to health sciences began in 1999. In this talk I tell how was the path that brought me to health data science. I give details of how I was trained and what less formal learnings I needed to do my job. I also explain how I divide my time between my research activities, teaching, consulting, community outreach and, last but not least, family."
 
 # Name of event and optional event URL.
 event = "Women in Data Science Cordoba"
