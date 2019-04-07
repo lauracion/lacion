@@ -1,18 +1,21 @@
 +++
-title = "Targeted Learning"
+title = "Ten Simple Rules for an Effective Statistics Practice"
 date = 2015-12-15T00:00:00  # Schedule page publish date.
 draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2015-12-15
+time_start = 2017-07-12
 # time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
-abstract = "Talk in Spanish. This seminar presents an introduction to targeted learning (TL). TL is a statistical tool of recent development that can be applied to the analysis of data corresponding to continuous or categorical variables, coming from both observational and experimental studies. Theoretical aspects will be illustrated for the estimation of a targeted parameter. In this case, a prediction index of mortality risk to answer the objective question about the effect of physical activity on the mortality rate of older adults. TL consists of two steps. First, an efficient initial estimate is obtained through a procedure called super learning (SL). To obtain the initial estimate, TL simultaneously uses a wide variety of models and algorithms. The methods incorporated by SL come from both classical statistics and machine learning, which is more common in computer science. SL uses a loss function to choose the most efficient linear combination of estimates using different models consistent with the structure of the data. Through the use of cross validation, SL prevents overfitting. The second step of TL is a correction of bias in the initial estimate. This is done through a procedure called maximum likelihood estimation. TL provides estimates with an optimal balance between bias and variance in the estimation of the objective parameter. It is possible to make inferences On these estimates. Despite being a tool developed in the last decade, TL has a solid theoretical and empirical basis that demonstrates the equality and, frequently, superiority of TL when compared with other analytical tools. TL is implemented in the SuperLearner and tmle R packages."
+abstract = "Talk in Spanish. In this seminar I present two recent papers (Kass et al, 2016 and Wasserstein et al, 2016) referring to generalities of the daily use of statistics in different scientific disciplines except for mathematics. I present some guidelines that allow an effective use of statistics. Also some of the controversies around the way p-values are most often used. I go over what a p-value is not and ways in which it should not be used according to the expert consensus of the American Statistical Association. The seminar is aimed at both scientists who use
+statistics as a tool in their research, as well as, to those that are beginning research and/or consulting in the area of statistics.
+
+I also present updated versions of this content in all my classes and presented it in seminars and talks at institutions such as [Laboratorio de Inteligencia Artificial Aplicada](https://icc.fcen.uba.ar/inteligencia-artificial/), [Hospital El Cruce](http://www.hospitalelcruce.org/), and [Academia Nacional de Medicina](https://anm.edu.ar/)"
 
 # Name of event and optional event URL.
 event = "Statistics Seminar"
@@ -37,7 +40,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://github.com/lauracion/lacion/blob/master/content/talk/files/TargetedLearning1.pdf"
+url_pdf = "https://github.com/lauracion/lacion/blob/master/content/talk/files/Interfase_10_Pautas_Simples.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
