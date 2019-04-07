@@ -1,7 +1,7 @@
 +++
 title = "Ten Simple Rules for an Effective Statistics Practice"
 date = 2015-12-15T00:00:00  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
