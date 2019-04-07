@@ -13,7 +13,7 @@ authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
 abstract = "Talk in Spanish. In this seminar I present two recent papers (Kass et al, 2016 and Wasserstein et al, 2016) referring to generalities of the daily use of statistics in different scientific disciplines except for mathematics. I present some guidelines that allow an effective use of statistics. Also some of the controversies around the way p-values are most often used. I go over what a p-value is not and ways in which it should not be used according to the expert consensus of the American Statistical Association. The seminar is aimed at both scientists who use
-statistics as a tool in their research, as well as, to those that are beginning research and/or consulting in the area of statistics. I also present updated versions of this content in all my classes and presented it in seminars and talks at institutions such as [Laboratorio de Inteligencia Artificial Aplicada](https://icc.fcen.uba.ar/inteligencia-artificial/), [Hospital El Cruce](http://www.hospitalelcruce.org/), and [Academia Nacional de Medicina](https://anm.edu.ar/)"
+statistics as a tool in their research, as well as, to those that are beginning research and/or consulting in the area of statistics."
 
 # Name of event and optional event URL.
 event = "Statistics Seminar"
