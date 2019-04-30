@@ -12,7 +12,7 @@ time_start = 2019-04-29T18:00:00
 authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
-abstract = "Talk in Spanish. The participation in this panel is summarized here."
+abstract = "Talk in Spanish. The participation in this panel is summarized [here](https://lacion.rbind.io/post/big-data-la-ultima-revolucion-tecnologica/)."
 
 # Name of event and optional event URL.
 event = "Cafe Cientifico"
