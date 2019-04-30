@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-15
+time_start = 2019-04-29
 # time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,7 +15,7 @@ authors = ["Laura Acion"]
 abstract = "Talk in Spanish. The participation in this panel is summarized here."
 
 # Name of event and optional event URL.
-event = "Café Científico"
+event = "Cafe Cientifico"
 event_url = "https://www.ancefn.org.ar/contenido.asp?id=2547"
 
 # Location of event.
