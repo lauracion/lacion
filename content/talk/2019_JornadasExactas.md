@@ -1,11 +1,11 @@
 +++
 title = "Hands-on-Data: Artificial Intelligence for the design of public policy in Latin America"
-date = 2019-06-06T00:00:00  # Schedule page publish date.
+date = 2019-06-03T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-12T16:00:00
+time_start = 2019-06-06T16:00:00
 # time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
