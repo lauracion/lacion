@@ -31,4 +31,4 @@ Mini class in English. With this mini class I became an instructor at DataCamp. 
 
 [Slides](https://github.com/lauracion/lacion/blob/master/content/teaching/files/Acion_DataCamp_Audition.pptx). [Video](https://github.com/lauracion/lacion/blob/master/content/teaching/files/Laura_Acion_Inference_by_Eye.mov).
 
-PS: I worked for several months developping a course for longitudinal data analysis with R for DataCamp. [For matters unrelated to course duties](https://twitter.com/RLadiesGlobal/status/1114507499728769024), I decided to stop my association with DataCamp before any of this work was finished.
+PS: I worked for several months developping a course for longitudinal data analysis with R for DataCamp. [For matters unrelated to course duties](https://blog.rladies.org/post/statement-about-datacamp/), I decided to stop my association with DataCamp before any of this work was finished.
