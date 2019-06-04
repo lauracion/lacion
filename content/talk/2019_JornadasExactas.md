@@ -1,5 +1,5 @@
 +++
-title = "Hands-on-Data: Artificial Intelligence for the design of public policy in Latin America"
+title = "Hands-on-Data: Artificial Intelligence for the Design of Public Policy in Latin America"
 date = 2019-06-03T00:00:00  # Schedule page publish date.
 draft = false
 
