@@ -1,5 +1,5 @@
 +++
-title = "Healthy Communities of Practice for Inclusive AI in LatAm"
+title = "Healthy Communities of Practice for an Inclusive AI in LatAm"
 date = 2019-06-11T00:00:00  # Schedule page publish date.
 draft = false
 
