@@ -12,7 +12,7 @@ time_start = 2019-06-11T09:00:00
 authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Talk in English. The rise of Artificial Intelligence (AI) presents unique opportunities as well as challenges for governments and society. For example, part of the promise of AI is to increase the efficiency and effectiveness of the public sector and public services. Nevertheless there are serious flaws reported about the way AI technologies operate posing serious risks for citizens, government and business alike. Likewise, the rise of Big Data promises to help better decision making, to open new markets or to improve public services like health and education. However, privacy and concerns in data bias means big data can actually contribute to exclude or even harm people. How can citizens scrutinise the way decisions are made in the black box? To which degree personal data is used for potentially discriminatory purposes? Which emerging good practices could help to prevent unfair uses of AI and big data in the Global South? We explore these questions through a series of promising and worrying cases in Latin America, arguing that AI and Big Data need to engage seriously with equality, accountability and innovation to deliver the promises of inclusive development."
 
 # Name of event and optional event URL.
 event = "The rise of AI and Big Data in Latin America: an inclusive future?"
