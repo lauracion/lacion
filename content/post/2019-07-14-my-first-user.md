@@ -56,7 +56,7 @@ Immediatelly after that, there was an hour-long session of several presentations
 
 * *There is not such thing as R vs Python divide. It is rather absurd and (to my satisfaction) this was a recurrent point throughout useR! David belongs to many open source communities. He told us that he came to R for the software and stayed for the community.*
 
-* *The speakers presented major players in the community such as the [R Foundation](https://www.r-project.org/foundation/), the [R Consortium](https://www.r-consortium.org/), the [R Core Team](https://www.r-project.org/contributors.html), [CRAN](https://cran.r-project.org/), industry, communities such as general and R-Ladies RUGs, and their interactions.*
+* *The speakers presented major players in the community such as the [R Foundation](https://www.r-project.org/foundation/), the [R Consortium](https://www.r-consortium.org/), the [R Core Team](https://www.r-project.org/contributors.html), [CRAN](https://cran.r-project.org/), industry, taskforces such as [R-Forwards](https://forwards.github.io/), communities such as general and R-Ladies RUGs, and their interactions.*
 
 And a lot more happenned in this session but by this time of the day that started aboard a red-eye transatlantic flight, I shut down. The rest of my memories are blur. Except for:
 
