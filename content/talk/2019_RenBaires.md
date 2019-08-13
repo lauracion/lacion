@@ -12,7 +12,7 @@ time_start = 2019-08-13T18:00:00
 authors = ["Laura Acion"]
 
 # Abstract and optional shortened version.
-abstract = "Talk in Spanish. My summary of useR!2019 at R user group in Buenos Aires"
+abstract = "Talk in Spanish. My summary of useR!2019 for the R user group in Buenos Aires"
 
 # Name of event and optional event URL.
 event = "Relatos de useR! 2019"
