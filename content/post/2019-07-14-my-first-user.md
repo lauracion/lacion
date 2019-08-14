@@ -52,7 +52,7 @@ I even had time to work further on getting my laptop ready for the next day (or 
 
 UseR organizers reserved a bit of time on Monday to make sure all diversity scholars got to know who the organizers were, how to reach them and, most importantly, how to get reimbursements for their conference expenses. They had a person dedicated to this and that was awesome! Everything was super smoothly!
 
-Immediatelly after that, there was an hour-long session of several presentations about the R ecosystem for people for whom was the first useR. [David](https://twitter.com/revodavid), [Colin](https://twitter.com/_ColinFay), [Erin](https://twitter.com/ledell), Hannah (and likely others that I am forgetting, sorry) presented some basics about the R community such as:
+Immediatelly after that, there was an hour-long session of several presentations about the R ecosystem for people for whom was the first useR. [Noa](https://twitter.com/noatamir), [David](https://twitter.com/revodavid), [Colin](https://twitter.com/_ColinFay), [Erin](https://twitter.com/ledell), Hannah (and likely others that I am forgetting, sorry) presented some basics about the R community such as:
 
 * *There is not such thing as R vs Python divide. It is rather absurd and (to my satisfaction) this was a recurrent point throughout useR! David belongs to many open source communities. He told us that he came to R for the software and stayed for the community.*
 
