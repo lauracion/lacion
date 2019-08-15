@@ -12,13 +12,13 @@ As many of my blogs related to R, this one will be full of "firsts." First time:
 
 You may be wondering how someone with so many firsts looks like having some roots in the R community. My path in R (and life), like yours, is unique and it does not conform with the stories that get a spotlight. Although R is a tool I sometimes use (since 2004), its international community rescued me from isolation and welcomed me when I started volunteering some of my time to it. 
 
-I've received so much back from the community already that there is a virtuous circle going. I feel the need to keep helping make the community stronger and giving back. I hope some of these reflections about my experience of [useR! 2019](http://www.user2019.fr/) help you. That is the goal of this series. The audience of my useR! 2019 posts is:
+I've received so much back from the community already that there is a virtuous circle going. I feel the need to keep helping make the community stronger and giving back. I hope some of these reflections about my experience of [useR! 2019](http://www.user2019.fr/) help you. That is the main goal of this series. The audience of my useR! 2019 posts is:
 
 * People pondering about attending useR! in the future. Short answer: yes, attend (or try to attend if you, like I, depend on a diversity scholarship to attend)!
 
 * Some of the *take-home messages* may also catch the eye of more seasonned useR! attendees, instructors, people looking into changing their careers to data science, and event organizers. Yeah, I am old enough to wear a lot of hats. Disclaimer: I am also very (maybe too) opinionated.
 
-Secondary goals of these series of posts are also being my memory dump of useR! 2019 (because I want to keep these wonderful memories) and keeping my word when I said in my diversity scholarship application that I would be blogging about useR!
+Secondary goals of this series of posts are also being my memory dump of useR! 2019 (because I want to keep these wonderful memories) and keeping my word when I said in my diversity scholarship application that I would be blogging about useR!
 
 It is likely this will turn out to be a long post. This is Part I including Monday and Tuesday, the two days before useR got officially started. I am foreseeing another part with memories from Wednesday to Friday that I hope to post in the upcoming days. 
 
@@ -40,7 +40,7 @@ As soon as I entered the Tidyverse Dev Day Temple (how else can you call a room 
 
 Thus, I proceeded to some succint "hi, I just got here", [Hadley](https://twitter.com/hadleywickham) handed me my Tidyverse Dev Day beautiful hexagonal souvenir and I immediately felt committed to get at least one small contribution done to actually deserve it. 
 
-I picked the simplest issue I could find, sat next to [Alice](https://twitter.com/alice_data) and got started. [Ildi](https://twitter.com/czeildi) came by actively seeking people who needed help. This was particularly helpful for me because being in a Temple can be intimidating for newvbies like I. Ildi helped me make sure I was doing my git ok and shared the knowledge I needed to get me going with my issue. It was mostly stuff I would have googled (and found), but I had my concentration depleted that day due to long-distance travel.
+I picked the simplest issue I could find, sat next to [Alice](https://twitter.com/alice_data) and got started. [Ildi](https://twitter.com/czeildi) came by actively seeking people who needed help. This was particularly helpful for me because being in a Temple can be intimidating for newbies like I. Ildi helped me make sure I was doing my git ok and shared the knowledge I needed to get me going with my issue. It was mostly stuff I would have googled (and found), but I had my concentration depleted that day due to long-distance travel.
 
 After lunch, I finished working on my issue and [Hannah](https://twitter.com/hfcfrick) helped me make sure I was pushing my work without messing anything up. Surely enough, a bit after that, Hadley merged my contribution and I got my gong. It was my first time having the feeling what many others feel when doing this: I could keep going for another issue and this could easily become a new hobby. Gosh, why don't days have 48 hours?
 
@@ -60,7 +60,7 @@ Immediatelly after that, there was an hour-long session of several presentations
 
 And a lot more happenned in this session but by this time of the day that started aboard a red-eye transatlantic flight, I shut down. The rest of my memories are blur. Except for:
 
-* *Aswerty keyboards and a non-English computer setup where a significant barrier for even the highest skilled R programmers in our community. This repeated over and over again until Friday. UseR! 2019 gave a great opportunity for a large part of the R community to reflect on how much more difficult everything is on a daily basis for people for whom English is a second language.*
+* *Aswerty keyboards and a non-English computer setup were a significant barrier for even the highest skilled R programmers in our community. This repeated over and over again until Friday. UseR! 2019 gave a great opportunity for a large part of the R community to reflect on how much more difficult everything is on a daily basis for people for whom English is a second language.*
 
 ### Tuesday
 
@@ -82,7 +82,9 @@ In the morning, I took the [H2O.ai](https://twitter.com/h2oai) [tutorial](https:
 
 * *Got to recap on my h2o and learned about the DALEX package for interpretable machine learning and I can't wait to get to the heart of the theory behind the methods implemented in DALEX.*
 
-A great perk of this tutorial was getting to seat next to Erin, master mind behind h2o.ai automl and one of the two persons I have heard about in the R community (heard as in reading her PhD dissertation carefully) before joining R-Ladies. (The other person I knew from before joining the community was [Luke](https://twitter.com/luketierney4) as a Prof in my US-based alma mater, who was great to see at useR! 2019, too.)
+A great perk of this tutorial was getting to seat next to Erin, master mind behind h2o.ai automl and one of the two persons I have heard about in the R community ("heard"" as in reading her PhD dissertation carefully) before joining R-Ladies (or knowing about its existence). 
+
+(The other person I knew from before joining the community was [Luke](https://twitter.com/luketierney4) as a Prof in my US-based alma mater, who was great to see at useR! 2019, too.)
 
 The take-home messages from the afternoon tutorial were also awesome. Not only did I get to learn how `reticulate` works and wrote my first Python code ever, but also got to observe some mind-blowing teaching skills by [Emma](https://twitter.com/er13_r). Among others, she is an expert at engaging first-year Biology undergrads who don't know yet how helpful it will be for them to learn to code with R and Python.
 
