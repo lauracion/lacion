@@ -5,7 +5,7 @@ draft = false
 
 authors = ["Laura Acion"]
 
-abstract = "This invited class has to parts. Part 1 presents my academic path. Parts II goes over some of the latest developments around decision making from a statistical point of view."
+abstract = "This invited class has to parts. Part 1 presents my academic path. Part II goes over some of the latest developments around decision making from a statistical point of view."
 
 elected = false
 
