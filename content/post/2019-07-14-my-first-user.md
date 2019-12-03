@@ -1,5 +1,5 @@
 ---
-title: Experiencing useR! as a newbie (Part I)
+title: Experiencing useR! as a newbie
 author: Laura
 date: '2019-08-13'
 slug: my-first-user
@@ -12,15 +12,15 @@ As many of my blogs related to R, this one will be full of "firsts." First time:
 
 You may be wondering how someone with so many firsts looks like having some roots in the R community. My path in R (and life), like yours, is unique and it does not conform with the stories that get a spotlight. Although R is a tool I sometimes use (since 2004), its international community rescued me from isolation and welcomed me when I started volunteering some of my time to it. 
 
-I've received so much back from the community already that there is a virtuous circle going. I feel the need to keep helping make the community stronger and giving back. I hope some of these reflections about my experience of [useR! 2019](http://www.user2019.fr/) help you. That is the main goal of this series. The audience of my useR! 2019 posts is:
+I've received so much back from the community already that there is a virtuous circle going. I feel the need to keep helping make the community stronger and giving back. I hope some of these reflections about my experience of [useR! 2019](http://www.user2019.fr/) help you. That is the main goal of this post. Its readership is:
 
 * People pondering about attending useR! in the future. Short answer: yes, attend (or try to attend if you, like I, depend on a diversity scholarship to attend)!
 
 * Some of the *take-home messages* may also catch the eye of more seasonned useR! attendees, instructors, people looking into changing their careers to data science, and event organizers. Yeah, I am old enough to wear a lot of hats. Disclaimer: I am also very (maybe too) opinionated.
 
-Secondary goals of this series of posts are also being my memory dump of useR! 2019 (because I want to keep these wonderful memories) and keeping my word when I said in my diversity scholarship application that I would be blogging about useR!
+Secondary goals of this post are also being my memory dump of useR! 2019 (because I want to keep these wonderful memories) and keeping my word when I said in my diversity scholarship application that I would be blogging about useR!
 
-It is likely this will turn out to be a long post. This is Part I including Monday and Tuesday, the two days before useR got officially started. I am foreseeing another part with memories from Wednesday to Friday that I hope to post in the upcoming days. 
+It is a long post that made it only to include Monday and Tuesday, the two days before useR got officially started. I was foreseeing another part with memories from Wednesday to Friday, but life got in the way. 
 
 ## Monday and Tuesday: pre-useR! stuff
 
@@ -42,7 +42,7 @@ Thus, I proceeded to some succint "hi, I just got here", [Hadley](https://twitte
 
 I picked the simplest issue I could find, sat next to [Alice](https://twitter.com/alice_data) and got started. [Ildi](https://twitter.com/czeildi) came by actively seeking people who needed help. This was particularly helpful for me because being in a Temple can be intimidating for newbies like I. Ildi helped me make sure I was doing my git ok and shared the knowledge I needed to get me going with my issue. It was mostly stuff I would have googled (and found), but I had my concentration depleted that day due to long-distance travel.
 
-After lunch, I finished working on my issue and [Hannah](https://twitter.com/hfcfrick) helped me make sure I was pushing my work without messing anything up. Surely enough, a bit after that, Hadley merged my contribution and I got my gong. It was my first time having the feeling what many others feel when doing this: I could keep going for another issue and this could easily become a new hobby. Gosh, why don't days have 48 hours?
+After lunch, I finished working on my issue and [Hannah](https://twitter.com/hfcfrick) helped me make sure I was pushing my work without messing anything up. Surely enough, a bit after that, Hadley merged my contribution and I got my gong. It was my first time having the feeling many others feel when doing this: I could keep going for another issue and this could easily become a new hobby. Gosh, why don't days have 48 hours?
 
 * *I wish there were more of these R-related dev days. Developping events that are friendly, diverse, and safe to advance not only the tidyverse. I see no downsides. Kuddos to the organizers.*
 
@@ -52,7 +52,7 @@ I even had time to work further on getting my laptop ready for the next day (or 
 
 UseR organizers reserved a bit of time on Monday to make sure all diversity scholars got to know who the organizers were, how to reach them and, most importantly, how to get reimbursements for their conference expenses. They had a person dedicated to this and that was awesome! Everything was super smoothly!
 
-Immediatelly after that, there was an hour-long session of several presentations about the R ecosystem for people for whom was the first useR. [Noa](https://twitter.com/noatamir), [David](https://twitter.com/revodavid), [Colin](https://twitter.com/_ColinFay), [Erin](https://twitter.com/ledell), Hannah (and likely others that I am forgetting, sorry) presented some basics about the R community such as:
+Immediatelly after that, there was an hour-long session of several presentations about the R ecosystem for people for whom this was the first useR. [Noa](https://twitter.com/noatamir), [David](https://twitter.com/revodavid), [Colin](https://twitter.com/_ColinFay), [Erin](https://twitter.com/ledell), Hannah (and likely others that I am forgetting, sorry) presented some basics about the R community such as:
 
 * *There is not such thing as R vs Python divide. It is rather absurd and (to my satisfaction) this was a recurrent point throughout useR! David belongs to many open source communities. He told us that he came to R for the software and stayed for the community.*
 
@@ -76,7 +76,7 @@ _Notes about prep._ It's been a (fortunately) busy conf season, so I only got to
 
 * *It is likely you will understimate the time it will take you to get some stuff installed in your computer.*
 
-* *In some cases, if there is reliable internet (the case of useR! 2019), [RStudio Cloud](https://rstudio.cloud/) can be a life savior so you can concentrate on the work rather than the installations. It is a nifty solution to save instructors from the operating system diversity nightmare in the sense that different versions of Linux, Windows, and Mac can behave differently for getting stuff working.*
+* *In some cases, if there is reliable internet (the case of useR! 2019), [RStudio Cloud](https://rstudio.cloud/) can be a life saver so you can concentrate on the work rather than the installations. It is a nifty solution to save instructors from the operating system diversity nightmare in the sense that different versions of Linux, Windows, and Mac can behave differently for getting stuff working.*
 
 In the morning, I took the [H2O.ai](https://twitter.com/h2oai) [tutorial](https://github.com/woobe/useR2019_h2o_tutorial) which I thought I was well-prepared for, but not quite. Fortunately, [Jo's](https://twitter.com/matlabulous) materials were very easy to follow so, while I used most of the time to get my computer the right versions of the h2o package and Java, I could still follow.
 
@@ -94,22 +94,22 @@ In addition to her helpful materials about `reticulate` [here](https://github.co
 
 * *Know your audience. If you can't do it in advance, you can always imbed a google form in your publicly available slides and ask your audience to fill this on the fly.*
 
-* *With a wide audience, have something for everyone. Emma included extra exercises clearly labeled for learners that advanced faster.*
+* *With a broad audience, have something for everyone. Emma included extra exercises clearly labeled for learners that advanced faster.*
 
-* *Use posts its to get a quick visual feeling of the room and help those that may be uncomfortable to talk, but not uncomfortable at putting a red post it in their laptops if they are lost.*
+* *Use sticky notes to get a quick visual feeling of the room and help those that may be uncomfortable to talk, but not uncomfortable at putting a red sticky note on their laptops if they are lost.*
 
-* *Stir some live coding in the mix - it is great learners see live how you do it and that you also make mistakes (and how you solve them).*
+* *Stir some live coding in the mix - it is great learners see live how you do it and that you also make mistakes (and show how you solve them).*
 
 Want more about UseR! 2019 tutorials? Check out this [awesome compendium](https://github.com/sowla/useR2019-materials) by [Suthira Owlarn](https://twitter.com/s_owla).
 
 #### Off to the Mayor's Reception
 
-A Tuesday of learning, finished at La Mairie de Toulouse in an extremelly beautiful building that I would never would got to visit otherwise. There was a long line to get to the building because of security checks. I didn't mind because I got to finish some convos that started on Monday. For instance, I was able to give these points of views to someone seeking to advance her data science career:
+A Tuesday of learning, finished at La Mairie de Toulouse in an extremelly beautiful building that I would never would have gotten to visit otherwise. There was a long line to get to the building because of security checks. I didn't mind because I got to finish some convos that started on Monday. For instance, I was able to give these points of views to someone seeking to advance her data science career:
 
-* *You might not need another masters or a phd (you surely don't need the costs some of those may entail). You definitively need a portfolio of projects to show what you know and how you do it. Degrees and papers that don't show how people code won't get you as far as you could go. (I learned this one the hard way, be smarter than I ;-) ).*
+* *You might not need another masters or a PhD degrees (you surely don't need the costs some of those may entail). You definitively need a portfolio of projects to show what you know and how you do it. Degrees and papers that don't show how people code won't get you as far as you could go. (I learned this one the hard way, be smarter than I ;-) ).*
 
 * *Volunteering time to different communities is cheaper than degrees and will teach you a well-rounded set of necessary skills, sometimes by working side-by-side with R referents, and with very low preasure, risk, and stress. Well-rounded set of skills can go from improving your English writting skills, to mastering git, developping a package, learning leadership skills, or getting in the backstage of the organization of large events.* 
 
 * *Community work comes with meaningful networking attached because people gets to know how it feels to work with you. It also brings countless opportunities your way. Being in the first few rows is always better than looking from afar. Get involved, be a team player (rather than a lone wolf)!*
 
-More to come on the same bati-channel about Wednesday through Friday at useR!2019. Thank you for reading until here, I hope it was worth your time.
+Thank you for reading until here, I hope it was worth your time.
