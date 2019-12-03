@@ -30,9 +30,9 @@ UseR! 2019 was Wednesday 10th to Friday 12th in Toulouse (France); however, ther
 
 ### Monday
 
-#### Tidyverse Developper Day
+#### Tidyverse Developer Day
 
-[Tidyverse Developper Day](https://www.tidyverse.org/articles/2019/04/tidyverse-dev-day-at-user-2019/) started at 9 am (same time I landed in Toulouse from Buenos Aires). Luckily enough, by 11 am I made it to useR venue. I went with the objective of just saying hi to some fRiends and ended up contributing to open source documentation for the first time. 
+[Tidyverse Developer Day](https://www.tidyverse.org/articles/2019/04/tidyverse-dev-day-at-user-2019/) started at 9 am (same time I landed in Toulouse from Buenos Aires). Luckily enough, by 11 am I made it to useR venue. I went with the objective of just saying hi to some fRiends and ended up contributing to open source documentation for the first time. 
 
 * *A really friendly coding environment and the right incentives can make a sleep-deprived newbie make their first contribution to open source.*
 
@@ -44,7 +44,7 @@ I picked the simplest issue I could find, sat next to [Alice](https://twitter.co
 
 After lunch, I finished working on my issue and [Hannah](https://twitter.com/hfcfrick) helped me make sure I was pushing my work without messing anything up. Surely enough, a bit after that, Hadley merged my contribution and I got my gong. It was my first time having the feeling many others feel when doing this: I could keep going for another issue and this could easily become a new hobby. Gosh, why don't days have 48 hours?
 
-* *I wish there were more of these R-related dev days. Developping events that are friendly, diverse, and safe to advance not only the tidyverse. I see no downsides. Kuddos to the organizers.*
+* *I wish there were more of these R-related dev days. Developing events that are friendly, diverse, and safe to advance not only the tidyverse. I see no downsides. Kuddos to the organizers.*
 
 I even had time to work further on getting my laptop ready for the next day (or so I believed) and having convos with new and old friends after my first contribution. More than anything, it felt great to contribute.
 
@@ -108,7 +108,7 @@ A Tuesday of learning, finished at La Mairie de Toulouse in an extremelly beauti
 
 * *You might not need another masters or a PhD degrees (you surely don't need the costs some of those may entail). You definitively need a portfolio of projects to show what you know and how you do it. Degrees and papers that don't show how people code won't get you as far as you could go. (I learned this one the hard way, be smarter than I ;-) ).*
 
-* *Volunteering time to different communities is cheaper than degrees and will teach you a well-rounded set of necessary skills, sometimes by working side-by-side with R referents, and with very low preasure, risk, and stress. Well-rounded set of skills can go from improving your English writting skills, to mastering git, developping a package, learning leadership skills, or getting in the backstage of the organization of large events.* 
+* *Volunteering time to different communities is cheaper than degrees and will teach you a well-rounded set of necessary skills, sometimes by working side-by-side with R referents, and with very low preasure, risk, and stress. Well-rounded set of skills can go from improving your English writting skills, to mastering git, developing a package, learning leadership skills, or getting in the backstage of the organization of large events.* 
 
 * *Community work comes with meaningful networking attached because people gets to know how it feels to work with you. It also brings countless opportunities your way. Being in the first few rows is always better than looking from afar. Get involved, be a team player (rather than a lone wolf)!*
 
