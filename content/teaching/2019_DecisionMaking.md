@@ -29,4 +29,4 @@ math = false
 
 Invited class in Spanish. This class has to parts. Part 1 presents my academic path. Parts II goes over some of the latest developments around decision making from a statistical point of view.
 
-[Slides](http://cor.to/TD2019).
+[Slides](http://tiny.cc/TomaDecisiones2019).

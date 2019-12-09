@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "http://cor.to/JII2019"
+url_slides = "http://tiny.cc/Tessler2019"
 url_video = ""
 url_code = ""
 
