@@ -1,11 +1,19 @@
 +++
-title = "Controversies around Statistics-Based Decision Making"
-date = 2019-11-10T00:00:00  # Schedule page publish date.
+title = "Tutorial para Unirse a una Clase en Google Classroom"
+date = 2020-03-17T00:00:00  # Schedule page publish date.
 draft = false
 
 authors = ["Laura Acion"]
 
-abstract = "This invited class has to parts. Part 1 presents my academic path. Part II goes over some of the latest developments around decision making from a statistical point of view."
+abstract = "Este tutorial lo escribi en 2017 para facilitarle a mis estudiantes a ingresar a un campus virtual simple y gratuito (classroom.google.com) de una materia introductoria de postgrado de la Carrera de Especializacion en Estadistica para Ciencias de la Salud (Instituto de Calculo, UBA). 
+
+Es un paso a paso que podria estar desactualizado, pero quizas partes aun pueden ser utiles. 
+
+Si bien es para estudiantes, facilmente se puede adaptar para docentes que necesiten sumar sus contenidos a classroom.google.com. Hay que invitarles a sumarse como docentes desde el sitio y les llegara un correo electronico con la invitacion.
+
+Una vez que ingresan, todos pueden agregar material o compartir lo que consideren interesante separado en cada materia individual. 
+
+En caso que el/la docente tuviera algun inconveniente para ingresar al sitio, el tutorial para darse de alta es util. Si se tiene cuenta de gmail (o asociada a gmail) el tutorial se termina en la tercer pagina. Si no, el proceso de ingreso es un poco mas engorroso y esta detallado en este tutorial. Cuando se usa este tutorial desde el punto de vista docente, no estara la opcion de unirse a la clase usando un codigo que se detalla en el tutorial."
 
 elected = false
 
@@ -27,6 +35,6 @@ math = false
   focal_point = "Right"
 +++
 
-Invited class in Spanish. This class has to parts. Part 1 presents my academic path. Parts II goes over some of the latest developments around decision making from a statistical point of view.
+Tutorial de 2017 para facilitarle a mis estudiantes el ingreso a un campus virtual simple y gratuito (classroom.google.com). Facilmente adaptable para docentes.
 
-[Slides](http://cor.to/TD2019).
+[Tutorial](https://github.com/lauracion/lacion/blob/master/content/teaching/files/CEECS_Tutorial_Google_Classroom.docx).
