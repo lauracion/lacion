@@ -1,7 +1,7 @@
 ---
 title: About me and current projects
 author: Laura Acion
-date: '2019-06-01'
+date: '2020-06-01'
 slug: about-me-and-current-projects
 categories: []
 tags: []
