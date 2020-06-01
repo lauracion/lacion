@@ -5,7 +5,7 @@ draft = false
 
 authors = ["Laura Acion"]
 
-abstract = "Starting at the end of March 2020 together with [MetaDocencia's](https://metadocencia.org/en) team, we taught this three-hour online workshop 26 times until today."
+abstract = "Starting at the end of March 2020 together with MetaDocencia's team, we taught this three-hour online workshop 26 times until today."
 
 elected = false
 
