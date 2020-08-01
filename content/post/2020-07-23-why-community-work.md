@@ -15,7 +15,7 @@ tl;dr: Because I seek to maximize the impact of what I do as an academic researc
 
 As of late, I have been observing the overwhelming majority of women in organizational roles within the R community, where they are otherwise underrepresented. These women are PhD students, post docs, researchers, professors, etc. That is, higly qualified folks, very smart, effective, and hard working. The kind of people anyone would like to work with in the most difficult and challenging projects.
 
-It got me thinking and reminded me that raising kids and caring for elders are the most challenging jobs I ever had, yet the least recognized in our societies. As [Mercedes D'Alessandro](https://twitter.com/dalesmm) says in her book ["the thing that we call love is unpaid work."](https://economiafeminita.com/eso-que-llaman-amor-es-trabajo-no-pago/) 
+It got me thinking and reminded me that raising kids and caring for elders are the most challenging jobs I ever had, yet the least recognized in our societies. As [Mercedes D'Alessandro](https://twitter.com/dalesmm) says in her book ["the thing that we call love is unpaid labor."](https://economiafeminita.com/eso-que-llaman-amor-es-trabajo-no-pago/) 
 
 I believe the same construct transfers well to organizational and community roles in the R community. Developping communities and organizing successful events is higly complex. Although differently, in my experience, developping communities and organizing successful events are as complex as programming or advancing science. However, developping communities and organizing events are not visible or adequately rewarded positions in the R community. 
 
