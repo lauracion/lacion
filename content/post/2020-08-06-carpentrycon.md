@@ -1,5 +1,5 @@
 ---
-title: CarpentryCon: Carpentries Instructor Experiences of Teaching Online
+title: Carpentries Instructor Experiences of Teaching Online
 author: Laura
 date: '2020-08-06'
 slug: carpentrycon
