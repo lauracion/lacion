@@ -48,6 +48,6 @@ I have so much to learn and to do that it seems I will be needing some extra liv
 
 A complete version of my academic CV is [here](https://docs.google.com/document/d/1cKIihWzEAxakMj7z8YP4SM007l-9fbLOLpoEvwyXd6k/edit?usp=sharing). A shorter version can be found [here](https://docs.google.com/document/d/1MOYWz0tAVasUFFdpZYP4k6GxLGyWGRmflxqIAoalc8s/edit?usp=sharing) (still rather long by non-academic standards). A more friendly post about me and what I am up to is [here](/post/about-me-and-current-projects). I am still in the process of uploading all my work to this site. 
 
-I am putting together my research group; if you are interested in anything that I do, I would be happy to hear from you. If in doubt, please reach out.
+If you are interested in anything that I do, I would be happy to hear from you. If in doubt, please reach out.
 
 All work in this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
