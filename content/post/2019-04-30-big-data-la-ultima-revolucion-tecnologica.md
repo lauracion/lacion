@@ -1,5 +1,5 @@
 ---
-title: Big data, la ultima revolucion tecnologica?
+title: Big data, la última revolucion tecnologica?
 author: Laura Acion
 date: '2019-04-30'
 slug: big-data-la-ultima-revolucion-tecnologica
