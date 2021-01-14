@@ -16,7 +16,7 @@ abstract = "Communication of science in Spanish. Con recurrencia aparecen en los
 
 # Name of event and optional event URL.
 event = "Es significativa la ciencia que hacemos?"
-event_url = "http://ccciencia.gob.ar/es_significativa_la_ciencia_que_hacemos.html"
+event_url = "https://www.facebook.com/CCdelaCiencia/posts/es-significativa-la-ciencia-que-hacemoseste-viernes-te-proponemos-que-te-sumes-a/2436258079928456/"
 
 # Location of event.
 location = "Centro Cultural de la Ciencia, Buenos Aires, Argentina"
